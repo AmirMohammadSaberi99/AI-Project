@@ -36,12 +36,7 @@ Run the script `Amirmohammad Saberi- S5840276` to see the Monte Carlo evaluation
 python Amirmohammad Saberi- S5840276.py
 
 
-or
-
 ```
 
 
 
-## License
-
-This project is open source and available under the MIT License.
